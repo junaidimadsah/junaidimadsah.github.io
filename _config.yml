@@ -16,14 +16,14 @@ minimal_mistakes_skin    : default
 
 # Site settings
 locale                   : "en-GB"
-title                    : Kashif's Rumbling
-name                     : "Kashif Soofi"
+title                    : Little Soldier .NET
+name                     : "Junaidi Madsah"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-url                      : "https://kashifsoofi.github.io"
-repository               : "kashifsoofi/kashifsoofi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://junaidimadsah.github.io"
+repository               : "junaidimadsah/junaidimadsah.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2"
@@ -34,32 +34,32 @@ search: true
 
 # Site Author
 author:
-  name   : "Kashif Soofi"
+  name   : "Junaidi Madsah"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kashif.blogs@outlook.com"
+      url: "mailto:junaidi.madsah@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kashifsoofi.github.io"
+      url: "https://junaidimadsah.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kashifsoofi"
+      url: "https://twitter.com/junaidimadsah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kashifsoofi"
+      url: "https://github.com/junaidimadsah"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kashifsoofi"
+      url: "https://twitter.com/junaidimadsah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kashifsoofi"
+      url: "https://github.com/junaidimadsah"
 
 # Reading Files
 include:
