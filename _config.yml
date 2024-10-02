@@ -15,8 +15,8 @@ remote_theme             : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : default
 
 # Site settings
-locale                   : "en-GB"
-title                    : Little Soldier .NET
+locale                   : "id-id"
+title                    : Daily Activity
 name                     : "Junaidi Madsah"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -36,7 +36,7 @@ search: true
 author:
   name   : "Junaidi Madsah"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Daily Activity"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -44,9 +44,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://junaidimadsah.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/junaidimadsah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/junaidimadsah"
@@ -54,9 +51,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/junaidimadsah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/junaidimadsah"
